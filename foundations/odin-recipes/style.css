@@ -1,0 +1,35 @@
+body{
+    background-color: #202812;
+}
+
+.heading{
+    font-family: 'DM Serif Display', serif;
+    text-align: center;
+    font-size: 38px;
+    color: #96a482;
+}
+
+.card{
+    background-image: linear-gradient(#96a482,#d1ccc2);
+    height: 400px;
+    width: 300px;
+    margin-top: 5px;
+    border-radius:50px ;
+    
+}
+
+.text-card{
+   color: #202812;
+   font-size: 50px;
+   text-align: center;
+   font-family: 'DM Serif Display', serif;
+   padding-top: 25px;
+}
+
+.image{
+    height: 280px;
+    width: 290px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 50px;
+}
